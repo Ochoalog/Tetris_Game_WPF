@@ -1,0 +1,33 @@
+﻿<Window x:Class="Tetris.ConnectToSQLServerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="Tetris Game" Height="463" Width="467" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Yellow" Offset="0"/>
+            <GradientStop Color="Gray" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="TOP 10 SCORE" FontSize="40" Foreground="Black" FontWeight="Bold" HorizontalAlignment="center" VerticalAlignment="center" Margin="74,-15,85,10"/>
+
+        <DataGrid Name="myDataGrid" IsSynchronizedWithCurrentItem="True" AutoGenerateColumns="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FontFamily="Segoe UI Black" Margin="24,0,36,111" Grid.Row="1" HorizontalGridLinesBrush="Red" VerticalGridLinesBrush="Red" Background="#FFF9DE31" Foreground="#FFA65E5E">
+            <DataGrid.Effect>
+                <DropShadowEffect/>
+            </DataGrid.Effect>
+        </DataGrid>
+        <Button x:Name="btnReturnInicio" Content="Tela inicial" HorizontalAlignment="Left" VerticalAlignment="Top" Width="179" Margin="117,274,0,0" Grid.Row="1" Click="btnReturnInicio_Click" FontSize="30" FontFamily="Segoe UI Black"/>
+
+
+
+    </Grid>
+</Window>

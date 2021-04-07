@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbSEQUORBS0023Model1StoreContainer" CdmEntityContainer="dbSEQUORBS0023Entities1">
+    <EntitySetMapping Name="SCORETETRIS">
+      <EntityTypeMapping TypeName="dbSEQUORBS0023Model1.SCORETETRIS">
+        <MappingFragment StoreEntitySet="SCORETETRIS">
+          <ScalarProperty Name="IdPlayer" ColumnName="IdPlayer" />
+          <ScalarProperty Name="PlayerName" ColumnName="PlayerName" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

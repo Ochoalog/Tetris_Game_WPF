@@ -1,0 +1,33 @@
+﻿<Window x:Class="Tetris.Inicio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="Inicio" Height="463" Width="467">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Yellow" Offset="0"/>
+            <GradientStop Color="Gray" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Button Content="Jogar!" HorizontalAlignment="Left" Margin="126,189,0,0" VerticalAlignment="Top" Width="204" Height="77" Click="Button_Click" FontSize="30" BorderBrush="#FFE01919" Background="#FFF00000" Foreground="Black">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="100" Margin="164,64,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="126" Margin="144,10,0,0" VerticalAlignment="Top" Width="168" Source="The_Tetris_Company_Logo.png">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Button Content="Top 10 Scores" HorizontalAlignment="Left" Margin="126,322,0,0" VerticalAlignment="Top" Width="204" Height="80" FontSize="30" Click="Button_Click_1" BorderBrush="Black" Foreground="Black" Background="Red">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+    </Grid>
+</Window>

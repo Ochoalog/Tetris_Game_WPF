@@ -1,0 +1,50 @@
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csprojAssemblyReference.cache
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\App.g.cs
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game_MarkupCompile.cache
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\Tetris Game.exe.config
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\Tetris Game.exe
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\Tetris Game.pdb
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.g.resources
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris_Game.Properties.Resources.resources
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csproj.GenerateResource.cache
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csproj.CoreCompileInputs.cache
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.exe
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.pdb
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game_MarkupCompile.lref
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\ConnectToSQLServerWindow.g.cs
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\ConnectToSQLServerWindow.baml
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\EntityFramework.dll
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\EntityFramework.xml
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game_Content.g.cs
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csproj.CopyComplete
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Inicio.g.cs
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Inicio.baml
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris.g.cs
+C:\Users\ochoavi\source\repos\Tetris Game\Tetris Game\obj\Debug\Tetris.baml
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\Tetris Game.exe.config
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\Tetris Game.exe
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\Tetris Game.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\EntityFramework.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\EntityFramework.xml
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csprojAssemblyReference.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\ConnectToSQLServerWindow.g.cs
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Inicio.g.cs
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris.g.cs
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\App.g.cs
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game_Content.g.cs
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game_MarkupCompile.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game_MarkupCompile.lref
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\ConnectToSQLServerWindow.baml
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Inicio.baml
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris.baml
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.g.resources
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris_Game.Properties.Resources.resources
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csproj.GenerateResource.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.csproj.CopyComplete
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.exe
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Documentos\BKP OCHOA\Tetris Game\Tetris Game\obj\Debug\Tetris Game.pdb
